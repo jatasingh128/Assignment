@@ -1,0 +1,14 @@
+{
+  "name": "jata_shankar_so_node_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "author": "Jata_shankar",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.3",
+    "express": "^4.16.4",
+    "n-readlines": "^1.0.0"
+  }
+}
